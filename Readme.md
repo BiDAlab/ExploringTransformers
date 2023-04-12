@@ -58,21 +58,5 @@ All data sessions used for evaluation, separated by subject, are reported in the
 
 [\[1\] *Paula Delgado-Santos, Ruben Tolosana, Richard Guest, Ruben Vera-Rodriguez, and Farzin Deravi, “Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition”, arXiv:2206.01441, 2022.*](https://arxiv.org/pdf/2206.01441.pdf)
 
-<!---[\[2\] *Q. Zou, Y. Wang, Q. Wang, Y. Zhao, Q. Li, Deep Learning-based Gait Recognition using Smartphones in the Wild, IEEE Transactions on Information Forensics and Security 15 (2020) 3197–3212*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9056812)
-
-[\[3\] *GT. T. Ngo, Y. Makihara, H. Nagahara, Y. Mukaigawa, Y. Yagi, The Largest Inertial Sensor-based Gait Database and Performance Evaluation of Gait-based Personal Authentication, Pattern Recognition 47 (1) (2014) 228–237*](https://www.sciencedirect.com/science/article/pii/S003132031300280X)
-
-[\[4\] *B. Li, W. Cui, W. Wang, L. Zhang, Z. Chen, M. Wu, Two-stream Convolution Augmented Transformer for Human Activity Recognition, in: Proc. AAAI Conference on Artificial Intelligence, 2021*](https://ojs.aaai.org/index.php/AAAI/article/view/16103)
-
-[\[5\] *H. Wu, J. Xu, J. Wang, M. Long, Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term
-Series Forecasting, in: Proc. Advances in Neural Information Processing Systems, 2021.*](https://proceedings.neurips.cc/paper_files/paper/2021/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Paper.pdf)
-
-[\[6\] *D. Hutchins, I. Schlag, Y. Wu, E. Dyer, B. Neyshabur, Block-Recurrent Transformers, in: Proc. Advances in Neural Information Processing Systems, 2022*](https://proceedings.neurips.cc/paper_files/paper/2022/file/d6e0bbb9fc3f4c10950052ec2359355c-Paper-Conference.pdf)
-
-[\[7\] *A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, L. Kaiser, I. Polosukhin, Attention is All
-you Need, in: Proc. Advances in Neural Information Processing Systems, Vol. 30, 2017*](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)--->
-
-
-
 
 **Contact: [paula.delgado-de-santos@kent.ac.uk](mailto:paula.delgado-de-santos@kent.ac.uk)**
