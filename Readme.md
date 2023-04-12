@@ -59,4 +59,4 @@ All data sessions used for evaluation, separated by subject, are reported in the
 [\[1\] *Paula Delgado-Santos, Ruben Tolosana, Richard Guest, Ruben Vera-Rodriguez, and Farzin Deravi, “Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition”, arXiv:2206.01441, 2022.*](https://arxiv.org/pdf/2206.01441.pdf)
 
 
-**Contact: [paula.delgado-de-santos@kent.ac.uk](mailto:paula.delgado-de-santos@kent.ac.uk)**
+**Contact: [paula.delgado-de-santos@kent.ac.uk](mailto:paula.delgado-de-santos@kent.ac.uk) or [ruben.tolosana@uam.es](mailto:ruben.tolosana@uam.es)**
