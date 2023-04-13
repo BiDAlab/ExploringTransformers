@@ -51,7 +51,6 @@ The proposed Transformer has outperformed previous Transformer architectures and
 +-----------------+------+---------------------------------+-----------------------------------+----------------+-----------------------+
 
 
-
 # Access and Code
 
 # Citation
