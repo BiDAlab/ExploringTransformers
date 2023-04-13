@@ -1,7 +1,7 @@
 
 # Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition
 
-![Header](./Images/AllTransformers.pdf)
+![Header](./Images/Screenshot.png)
 
 
 
