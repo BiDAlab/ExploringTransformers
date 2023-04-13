@@ -35,7 +35,7 @@ The proposed Transformer has outperformed previous Transformer architectures and
 
 | whuGAIT | OU-ISIR |
 | --- | --- |
-| [\Vanilla Transformer\](./Images/TableResults.png) | Vanilla Transformer |
+| [Vanilla Transformer](./Images/TableResults.png) | Vanilla Transformer |
 | Informer | Informer |
 | Autoformer | Autoformer |
 | Block-Recurrent Transformer | Block-Recurrent Transformer |
