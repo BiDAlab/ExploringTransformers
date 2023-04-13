@@ -1,6 +1,10 @@
 
 # Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition
 
+![Header](./images/dibujo.png)
+
+
+
 Welcome! 
 
 In this page we provide all the necessary information to replicate the experimental protocol of the presented Transformer-based biometric identification system proposed in [\[1\]](https://arxiv.org/pdf/2206.01441.pdf). In this article we explore and propose novel behavioural biometric systems based on Transformers.
