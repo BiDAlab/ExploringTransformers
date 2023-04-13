@@ -20,17 +20,6 @@ In this repository we include the experimental protocol followed in our experime
 
 The proposed Transformer has outperformed previous Transformer architectures and traditional DL architectures (i.e., CNNs, RNNs, and CNNs + RNNs) when evaluated using both databases whuGAIT [\[2\]](https://github.com/qinnzou/Gait-Recognition-Using-Smartphones) and OU-ISIR [\[3\]](https://www.sciencedirect.com/science/article/pii/S003132031300280X). In particular, for the challenging OU-ISIR database, the proposed Transformer achieves 93.33% accuracy, resulting in accuracy absolute improvements compared with other techniques of 7.59% (THAT), 28.81% (Block-Recurrent Transformer), 30.23% (Autoformer), 33.93% (Informer), and 38.82% (Vanilla Transformer). The proposed Transformer has also been compared with state-of-the-art gait biometric recognition systems, outperforming the results presented in the literature. In addition, it is important to highlight the enhanced time complexity and memory usage of the proposed Transformer compared with traditional DL models.
 
-|      Field      | Year |            Reference            |                       Description                       |       Performance        |                             |
-|:---------------:|:----:|:-------------------------------:|:-------------------------------------------------------:|:------------------------:|:---------------------------:|
-|                 |      |                                 |                                                         |         Main Task        |    Sensitive Attrributes    |
-|  Human-Activity | 2017 |    \cite{iwasawa2017privacy}    |              Subject Adversarial aNN  (CNN)             | Decrease  \leq 1.0% Acc. |     Decrease  40.0% Acc.    |
-|                 | 2018 | \cite{malekzadeh2018protecting} |                           GAN                           |   Decrease  1.4% Acc.    |     Decrease  45.8% Acc.    |
-|                 | 2021 |    \cite{zhang2021preventing}   |           Unsupervised Learning  (Autoencoder)          | Decrease  \sim 2.0% Acc. |     Decrease  56.8% Acc.    |
-|      Image      | 2019 | \cite{terhorst2019unsupervised} |       Similarity-Sensitive  Noise Transformations       |   Increase  \sim 5% EER  | Decrease  $\sim$ 17.0% Acc. |
-|                 | 2019 |  \cite{terhorst2019suppressing} |                      Decision Tree                      |    Increase 1.4\% EER    |      Decrease 20% COCR      |
-|                 | 2020 | \cite{morales2020sensitivenets} |        Privacy-Preserving ANN (Own Loss Function)       |    Decrease 2.6% Acc.    |  Decrease \sim 54.0\% Acc.  |
-| Gait biometrics | 2019 |      \cite{garofalo2019data}    |                       Siamese CNN                       |    Decrease 5.6\% Acc.   |     Decrease 21.0% Acc.     |
-|                 | 2022 |          GaitPrivacyON          | Unsupervised Learning (Autoencoder with Additive Noise) |     Decrease 3.2% AUC    |    Decrease \sim 50% AUC    |
 
 
 # Access and Code
