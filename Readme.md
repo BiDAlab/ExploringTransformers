@@ -26,7 +26,7 @@ If you use DeepFakesON-Phys please cite:
 ```
 @article{delgado2022exploring,
   title={{Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition}},
-  author={\textbf{\underline{P. Delgado-Santos}} and Tolosana, Ruben and Guest, Richard and Deravi, Farzin and Vera-Rodriguez, Ruben},
+  author={Delgado-Santos, Paula and Tolosana, Ruben and Guest, Richard and Deravi, Farzin and Vera-Rodriguez, Ruben},
   journal={Under Review in Pattern Recognition},
   year={2022}
 }
