@@ -33,6 +33,7 @@ The proposed Transformer has outperformed previous Transformer architectures and
 
 # Code
 
+We provide the pre-trained models in this repo. 
 | whuGAIT | OU-ISIR |
 | --- | --- |
 | [Vanilla Transformer](./Images/TableResults.png) | Vanilla Transformer |
