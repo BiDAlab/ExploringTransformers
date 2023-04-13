@@ -12,7 +12,7 @@ The present article intends to explore and propose novel behavioural biometric s
 
 # Experimental Protocol
 
-In this repository we include the experimental protocol included in Zou *et al.* proposed in [\[4\]]((https://github.com/qinnzou/Gait-Recognition-Using-Smartphones)). for the two popular public databases whuGAIT [\[2\]](https://github.com/qinnzou/Gait-Recognition-Using-Smartphones) and OU-ISIR [\[3\]](https://www.sciencedirect.com/science/article/pii/S003132031300280X). A predefined division of the database into development and evaluation datasets is included in order to facilitate the comparison among approaches.
+In this repository we include the experimental protocol included in Zou *et al.* proposed in [\[2\]](https://github.com/qinnzou/Gait-Recognition-Using-Smartphones). for the two popular public databases whuGAIT [\[3\]](https://github.com/qinnzou/Gait-Recognition-Using-Smartphones) and OU-ISIR [\[4\]](https://www.sciencedirect.com/science/article/pii/S003132031300280X). A predefined division of the database into development and evaluation datasets is included in order to facilitate the comparison among approaches.
 
 
 
