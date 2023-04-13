@@ -22,10 +22,29 @@ The proposed Transformer has outperformed previous Transformer architectures and
 
 ![Header](./Images/TableResults.png)
 
-# Access and Code
+
+# Dependences 
+
+`conda=22.9.0`
+`numpy=1.24.1`
+`python=3.9.7`
+`torch=1.11.0`
+
+
+# Code
+
+| whuGAIT | OU-ISIR |
+| --- | --- |
+| Vanilla Transformer | Vanilla Transformer |
+| Informer | Informer |
+| Autoformer | Autoformer |
+| Block-Recurrent Transformer | Block-Recurrent Transformer |
+| THAT | THAT |
+| Proposed Transformer | Proposed Transformer |
 
 # Citation
-If you use DeepFakesON-Phys please cite:
+
+If you use our code please cite:
 
 ```
 @article{delgado2022exploring,
