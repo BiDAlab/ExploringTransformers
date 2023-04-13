@@ -26,9 +26,13 @@ The proposed Transformer has outperformed previous Transformer architectures and
 # Dependences 
 
 `conda=22.9.0`
+
 `CUDA`
+
 `numpy=1.24.1`
+
 `python=3.9.7`
+
 `torch=1.11.0`
 
 
