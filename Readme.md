@@ -4,15 +4,13 @@
 ![Header](./Images/AllTransformers.png)
 
 
+# Overview
 
-Welcome! 
+# Benchmark Evaluation on Gait Recognition
 
-In this page we provide all the necessary information to replicate the experimental protocol of the presented Transformer-based biometric identification system proposed in [\[1\]](https://arxiv.org/pdf/2206.01441.pdf). In this article we explore and propose novel behavioural biometric systems based on Transformers.
-The model development and evaluation described is carried out over the whuGAIT [\[2\]](https://github.com/qinnzou/Gait-Recognition-Using-Smartphones) and OU-ISIR Databases  [\[3\]](https://www.sciencedirect.com/science/article/pii/S003132031300280X).
+# Experimental Protocol
 
-
-
-# Description of the proposed Transformer-based biometric system
+#Access and Code
 
 The new proposed Transformer based on a selection of the best components presented in previous Transformer architectures. 
 
