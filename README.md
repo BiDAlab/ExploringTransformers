@@ -43,11 +43,11 @@ We provide the evaluation scripts together with their pre-trained models in this
 | whuGAIT | OU-ISIR |
 | --- | --- |
 | [Vanilla Transformer](./Scripts/VanillaTransformer_whuGAIT_Evaluation.py) | [Vanilla Transformer](./Scripts/VanillaTransformer_OUISIR_Evaluation.py) |
-| Informer | Informer |
-| Autoformer | Autoformer |
-| Block-Recurrent Transformer | Block-Recurrent Transformer |
-| THAT | THAT |
-| Proposed Transformer | Proposed Transformer |
+| [Informer](./Scripts/Informer_whuGAIT_Evaluation.py) | [Informer](./Scripts/Informer_OUISIR_Evaluation.py) |
+| [Autoformer](./Scripts/Autoformer_whuGAIT_Evaluation.py) | [Autoformer](./Scripts/Autoformer_OUISIR_Evaluation.py) |
+| [Block-Recurrent Transformer](./Scripts/BlockRecurrentTransformer_whuGAIT_Evaluation.py) | [Block-Recurrent Transformer](./Scripts/BlockRecurrentTransformer_OUISIR_Evaluation.py) |
+| [THAT](./Scripts/THAT_whuGAIT_Evaluation.py) | [THAT](./Scripts/THAT_OUISIR_Evaluation.py) |
+| [Proposed Transformer](./Scripts/ProposedTransformer_whuGAIT_Evaluation.py) | [Proposed Transformer](./Scripts/ProposedTransformer_OUISIR_Evaluation.py) |
 
 # Citation
 
