@@ -52,7 +52,8 @@ The proposed Transformer has outperformed previous Transformer architectures and
 
 # Code
 
-We provide the evaluation scripts together with their pre-trained models in this repo. 
+We will provide the evaluation scripts together with their pre-trained models shortly.
+<!--We provide the evaluation scripts together with their pre-trained models in this repo. -->
 
 | whuGAIT | OU-ISIR |
 | --- | --- |
