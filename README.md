@@ -3,6 +3,20 @@
 
 ![Header](./Images/AllTransformers.png)
 
+# Citation
+
+If you use our code please cite:
+
+```
+@article{delgado2022exploring,
+  title={{Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition}},
+  author={Delgado-Santos, Paula and Tolosana, Ruben and Guest, Richard and Deravi, Farzin and Vera-Rodriguez, Ruben},
+  journal={Under Review in Pattern Recognition},
+  year={2022}
+}
+
+```
+
 # Overview
 
 This article explores and proposes novel behavioural biometric systems based on Transformers.
@@ -49,19 +63,6 @@ We provide the evaluation scripts together with their pre-trained models in this
 | [THAT](./Scripts/THAT_whuGAIT_Evaluation.py) | [THAT](./Scripts/THAT_OUISIR_Evaluation.py) |
 | [Proposed Transformer](./Scripts/ProposedTransformer_whuGAIT_Evaluation.py) | [Proposed Transformer](./Scripts/ProposedTransformer_OUISIR_Evaluation.py) |
 
-# Citation
-
-If you use our code please cite:
-
-```
-@article{delgado2022exploring,
-  title={{Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition}},
-  author={Delgado-Santos, Paula and Tolosana, Ruben and Guest, Richard and Deravi, Farzin and Vera-Rodriguez, Ruben},
-  journal={Under Review in Pattern Recognition},
-  year={2022}
-}
-
-```
 
 # Contact
 
