@@ -42,7 +42,7 @@ We provide the evaluation scripts together with their pre-trained models in this
 
 | whuGAIT | OU-ISIR |
 | --- | --- |
-| [Vanilla Transformer](./Images/TableResults.png) | Vanilla Transformer |
+| [Vanilla Transformer](./Scripts/VanillaTransformer_whuGAIT_Evaluation.py) | Vanilla Transformer |
 | Informer | Informer |
 | Autoformer | Autoformer |
 | Block-Recurrent Transformer | Block-Recurrent Transformer |
