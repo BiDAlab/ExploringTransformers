@@ -8,11 +8,13 @@
 If you use our code please cite:
 
 ```
-@article{delgado2022exploring,
+@article{delgado2023exploring,
   title={{Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition}},
   author={Delgado-Santos, Paula and Tolosana, Ruben and Guest, Richard and Deravi, Farzin and Vera-Rodriguez, Ruben},
-  journal={Under Review in Pattern Recognition},
-  year={2022}
+  journal={Pattern Recognition},
+  volume = {143},
+  pages = {109798},
+  year = {2023}
 }
 
 ```
