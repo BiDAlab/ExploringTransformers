@@ -57,12 +57,12 @@ We will provide the evaluation scripts together with their pre-trained models sh
 
 | whuGAIT | OU-ISIR |
 | --- | --- |
-| [Vanilla Transformer](./Scripts/VanillaTransformer_whuGAIT_Evaluation.py) | [Vanilla Transformer](./Code/OUISIR/VanillaTransformer_OUISIR_Evaluation.py) |
-| [Informer](./Scripts/Informer_whuGAIT_Evaluation.py) | [Informer](./Scripts/Informer_OUISIR_Evaluation.py) |
-| [Autoformer](./Scripts/Autoformer_whuGAIT_Evaluation.py) | [Autoformer](./Scripts/Autoformer_OUISIR_Evaluation.py) |
-| [Block-Recurrent Transformer](./Scripts/BlockRecurrentTransformer_whuGAIT_Evaluation.py) | [Block-Recurrent Transformer](./Scripts/BlockRecurrentTransformer_OUISIR_Evaluation.py) |
-| [THAT](./Scripts/THAT_whuGAIT_Evaluation.py) | [THAT](./Scripts/THAT_OUISIR_Evaluation.py) |
-| [Proposed Transformer](./Scripts/ProposedTransformer_whuGAIT_Evaluation.py) | [Proposed Transformer](./Scripts/ProposedTransformer_OUISIR_Evaluation.py) |
+| [Vanilla Transformer](./Code/whuGAIT/VanillaTransformer_whuGAIT_Evaluation.py) | [Vanilla Transformer](./Code/OUISIR/VanillaTransformer_OUISIR_Evaluation.py) |
+| [Informer](./Code/whuGAIT/Informer_whuGAIT_Evaluation.py) | [Informer](./Code/OUISIR/Informer_OUISIR_Evaluation.py) |
+| [Autoformer](./Code/whuGAIT/Autoformer_whuGAIT_Evaluation.py) | [Autoformer](./Code/OUISIR/Autoformer_OUISIR_Evaluation.py) |
+| [Block-Recurrent Transformer](./Code/whuGAIT/BlockRecurrentTransformer_whuGAIT_Evaluation.py) | [Block-Recurrent Transformer](./Code/OUISIR/BlockRecurrentTransformer_OUISIR_Evaluation.py) |
+| [THAT](./Code/whuGAIT/THAT_whuGAIT_Evaluation.py) | [THAT](./Code/OUISIR/THAT_OUISIR_Evaluation.py) |
+| [Proposed Transformer](./Code/whuGAIT/ProposedTransformer_whuGAIT_Evaluation.py) | [Proposed Transformer](./Code/OUISIR/ProposedTransformer_OUISIR_Evaluation.py) |
 
 
 # Contact
