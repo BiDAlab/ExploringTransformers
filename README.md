@@ -57,7 +57,7 @@ We will provide the evaluation scripts together with their pre-trained models sh
 
 | whuGAIT | OU-ISIR |
 | --- | --- |
-| [Vanilla Transformer](./Scripts/VanillaTransformer_whuGAIT_Evaluation.py) | [Vanilla Transformer](./Scripts/VanillaTransformer_OUISIR_Evaluation.py) |
+| [Vanilla Transformer](./Scripts/VanillaTransformer_whuGAIT_Evaluation.py) | [Vanilla Transformer](./Code/OUISIR/VanillaTransformer_OUISIR_Evaluation.py) |
 | [Informer](./Scripts/Informer_whuGAIT_Evaluation.py) | [Informer](./Scripts/Informer_OUISIR_Evaluation.py) |
 | [Autoformer](./Scripts/Autoformer_whuGAIT_Evaluation.py) | [Autoformer](./Scripts/Autoformer_OUISIR_Evaluation.py) |
 | [Block-Recurrent Transformer](./Scripts/BlockRecurrentTransformer_whuGAIT_Evaluation.py) | [Block-Recurrent Transformer](./Scripts/BlockRecurrentTransformer_OUISIR_Evaluation.py) |
