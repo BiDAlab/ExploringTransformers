@@ -3,22 +3,6 @@
 
 ![Header](./Images/AllTransformers.png)
 
-# Citation
-
-If you use our code please cite:
-
-```
-@article{delgado2023exploring,
-  title={{Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition}},
-  author={Delgado-Santos, Paula and Tolosana, Ruben and Guest, Richard and Deravi, Farzin and Vera-Rodriguez, Ruben},
-  journal={Pattern Recognition},
-  volume = {143},
-  pages = {109798},
-  year = {2023}
-}
-
-```
-
 # Overview
 
 This article explores and proposes novel behavioural biometric systems based on Transformers.
@@ -67,6 +51,22 @@ We will provide the evaluation scripts together with their pre-trained models sh
 | [Proposed Transformer](./Code/whuGAIT/ProposedTransformer_whuGAIT_Evaluation.py) | [Proposed Transformer](./Code/OUISIR/ProposedTransformer_OUISIR_Evaluation.py) |
 
 
+# Citation
+
+If you use our code please cite:
+
+```
+@article{delgado2023exploring,
+  title={{Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition}},
+  author={Delgado-Santos, Paula and Tolosana, Ruben and Guest, Richard and Deravi, Farzin and Vera-Rodriguez, Ruben},
+  journal={Pattern Recognition},
+  volume = {143},
+  pages = {109798},
+  year = {2023}
+}
+
+```
+
 # Contact
 
-If you have any questions, please contact us at [paula.delgado-de-santos@kent.ac.uk](mailto:paula.delgado-de-santos@kent.ac.uk) or [ruben.tolosana@uam.es](mailto:ruben.tolosana@uam.es).
+If you have any questions, please contact us at [paula.delgadodesantos@telefonica.com](mailto:paula.delgadodesantos@telefonica.com) or [ruben.tolosana@uam.es](mailto:ruben.tolosana@uam.es).
