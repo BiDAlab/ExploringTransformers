@@ -5,7 +5,9 @@
 
 # Overview
 
-This article explores and proposes novel behavioural biometric systems based on Transformers.
+This repo provides the code and results from the paper ["Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition"](https://www.sciencedirect.com/science/article/pii/S003132032300496X) published in Pattern Recognition (2023).
+
+Our article explores and proposes novel behavioural biometric systems based on Transformers.
 
 Transformers are more recently proposed DL architectures that have already garnered impmense interest due to their effectiveness across a range of application domains such as language assessment, vision, and reinforcement learning. Their main advantages compared with traditional CNN and RNN architectures are: *i)* Transformers are feed-forward models that process all the sequences in parallel, therefore increasing efficiency; *ii)* They apply Self-Attention/Auto-Correlation mechanisms that allows them to operate in long sequences; *iii)* They can be trained efficiently in a single batch since all the sequence is included in every batch; and *iv)* They can attend to the whole sequence, instead of summarising all the previous temporal information.
 
