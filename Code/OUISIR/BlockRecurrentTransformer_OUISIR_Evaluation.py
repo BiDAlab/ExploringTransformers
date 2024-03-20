@@ -37,7 +37,7 @@ configs.hlayers_rec = 1
 configs.hlayers_pos = 2                                                                      #^#
 
 ##################  DATASET  ######################
-testing_dataset = torch.load('testing_dataset_OUISIR.pt')
+testing_dataset = torch.load('data/testing_dataset_OUISIR.pt')
 testing_dataloader = DataLoader(testing_dataset, batch_size=1409, shuffle=False)
 
 ###########  NETWORK PARAMETERS  #################
