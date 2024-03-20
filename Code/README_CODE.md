@@ -5,11 +5,28 @@ This document explains the code used for the above paper. The system details are
 In this folder you will find the files separated by database (whuGAIT and OUISIR).
 
 Each folder contains: 
-•	Train/Validation/Test files (.pt) 
-  o	These files are created from the original data with GaitDataset.py to have it in PyTorch
-  o	PreTrained Models (Vanilla Transformer, Informer, Autoformer, Block-Recurrent Transformer, THAT, and the proposed Transformer)
-  o	Evaluation files (Vanilla Transformer, Informer, Autoformer, Block-Recurrent Transformer, THAT, and the proposed Transformer)
-  o	Training files (proposed Transformer)
-  o	Layers and utils needed (layers and utils folders, BlockRecurrentTransformer.py, and Models_Transformers.py
+
+-	Train/Validation/Test files(training/validation/testing_dataset_database.pt_):
+  +	These files are created from the original data with GaitDataset.py to have it in PyTorch
+- PreTrained Models:
+  + Vanilla Transformer (_VanillaTransformer_database_)
+  + Informer (_Informer_database_)
+  + Autoformer (_Autoformer_database_)
+  + Block-Recurrent Transformer (_BlockRecurrentTransformer_database_)
+  + THAT (_THAT_database_)
+  + Proposed Transformer (_ProposedTransformer_database_) 
+- Evaluation files:
+  + Vanilla Transformer (_VanillaTransformer_database_Evaluation.py_)
+  + Informer (_Informer_database_Evaluation.py_)
+  + Autoformer (_Autoformer_database_Evaluation.py_)
+  + Block-Recurrent Transformer (_BlockRecurrentTransformer_database_Evaluation.py_)
+  + THAT (_THAT_database_Evaluation.py_)
+  + Proposed Transformer (_ProposedTransformer_database_Evaluation.py_) 
+- Training files:
+  + Proposed Transformer (_ProposedTransformer_database_Training.py_)
+  + Please, first download the training dataset (_training_dataset_database.py_) as indicated in _data/README_DATA.md_
+- Layers and utils needed (layers and utils folders, _BlockRecurrentTransformer.py_, and _Models_Transformers.py_)
   
-If you have any questions, please contact us at paula.delgado-de-santos@kent.ac.uk or ruben.tolosana@uam.es 
+where database is (_whuGAIT_ or _OUISIR_).
+
+If you have any questions, please contact us at paula.delgadodesantos@telefonica.com or ruben.tolosana@uam.es 
