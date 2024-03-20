@@ -6,7 +6,7 @@ In this folder you will find the files separated by database (whuGAIT and OUISIR
 
 Each folder contains: 
 
--	Train/Validation/Test files(training/validation/testing_dataset_database.pt_):
+-	Train/Validation/Test files(_training/validation/testing_dataset_database.pt_):
   +	These files are created from the original data with GaitDataset.py to have it in PyTorch
 - PreTrained Models:
   + Vanilla Transformer (_VanillaTransformer_database_)
