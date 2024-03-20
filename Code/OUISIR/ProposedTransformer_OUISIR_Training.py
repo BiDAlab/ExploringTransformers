@@ -37,9 +37,9 @@ configs.hlayers_rec = 1
 configs.hlayers_pos = 2                                                                         #^#
 
 ##################  DATASET  ######################
-training_dataset = torch.load('training_dataset_OUISIR.pt')
-validation_dataset = torch.load('validation_dataset_OUISIR.pt')
-testing_dataset = torch.load('testing_dataset_OUISIR.pt')
+training_dataset = torch.load('data/training_dataset_OUISIR.pt')
+validation_dataset = torch.load('data/validation_dataset_OUISIR.pt')
+testing_dataset = torch.load('data/testing_dataset_OUISIR.pt')
 train_dataloader = DataLoader(training_dataset, batch_size=64, shuffle=True)
 validation_dataloader = DataLoader(validation_dataset, batch_size=32, shuffle=False)
 testing_dataloader = DataLoader(testing_dataset, batch_size=32, shuffle=False)
